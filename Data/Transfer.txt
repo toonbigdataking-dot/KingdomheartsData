@@ -1,1 +1,2 @@
-- Data.rar [file] -> 28.3 MB -> 10/4/2025 1:25 AM -> GitHub [Path: ..\GitHub\KingdomheartsData\..]
+- Private Data [folder] -> 28.8 MB -> 10/5/2025 5:38 AM -> GitHub [Path: ..\GitHub\KingdomheartsData\..]
+- Public Data [folder] -> 17.3 MB -> 10/5/2025 5:37 AM -> GitHub [Path: ..\GitHub\KingdomheartsData\..]
